@@ -6,4 +6,8 @@
 
 ## Usage
 
-    python vid_frame_reg.py source.mp4 target.mp4
+    python vid_reg_demo1.py source.mp4 target.mp4
+
+## Note
+
+`vid_reg_demo2.py` is not working, cv2 objects are hard to multi-process ...
